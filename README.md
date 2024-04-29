@@ -1,3 +1,5 @@
+
+# Note: Different shapes have been uploaded for different usage purposes.
 # Cyber Security Roadmap
 
 Welcome to the Cyber Security Roadmap! This roadmap provides an overview of various certification paths offered by leading organizations in the field of cybersecurity. Whether you're just starting your career or looking to advance your skills, these certifications can help you validate your knowledge and expertise in different areas of cybersecurity.
